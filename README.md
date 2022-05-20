@@ -1,1 +1,1 @@
-# FarmRight: A Crop Recommendation System
+# FarmRight: A Recommendation System for Crops
